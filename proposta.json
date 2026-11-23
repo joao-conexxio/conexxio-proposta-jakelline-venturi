@@ -1,0 +1,254 @@
+{
+  "slug": "jakelline-venturi",
+  "negocio": {
+    "nome": "Dra. Jakelline Venturi · Harmonização Facial",
+    "logo": "brand/logo.png",
+    "whatsapp": "5547999021728",
+    "telefone": "(47) 99902-1728",
+    "funcionamento": {
+      "seg": "09:00-20:00",
+      "ter": "09:00-20:00",
+      "qua": "09:00-20:00",
+      "qui": "09:00-20:00",
+      "sex": "09:00-20:00",
+      "sab": null,
+      "dom": null
+    },
+    "unidades": [
+      {
+        "bairro": "Centro · Joinville",
+        "endereco": "Rua Henrique Meyer, 280 – Helbor Offices, Centro, Joinville – SC, 89203-088",
+        "telefone": "(47) 99902-1728",
+        "horario": "Segunda a sexta, das 9h às 20h"
+      }
+    ]
+  },
+  "marca": {
+    "brand": "#5A3550",
+    "brand2": "#3A2234",
+    "ink": "#2B1F27",
+    "bg": "#FBF7F4",
+    "pulse": "#CFA866",
+    "radius": "18px",
+    "registro": "editorial",
+    "fontDisplay": "Marcellus",
+    "fontBody": "Jost",
+    "tomHero": "escuro",
+    "tomCorpo": "claro"
+  },
+  "motivo": "camadas",
+  "secoes": [
+    {
+      "id": "header",
+      "variant": "sticky-cta",
+      "data": {
+        "links": [
+          { "texto": "Tratamentos", "href": "#tratamentos" },
+          { "texto": "Avaliações", "href": "#avaliacoes" },
+          { "texto": "Dúvidas", "href": "#faq" },
+          { "texto": "Onde fica", "href": "#unidades" }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "variant": "moldura",
+      "data": {
+        "eyebrow": "Harmonização facial · Centro de Joinville",
+        "h1": "Realce, sem perder a sua cara",
+        "lead": "A biomédica esteta Jakelline Venturi avalia, explica e aplica no consultório Império Facial, no Helbor Offices. Toxina, lábios e harmonização para mulheres e homens.",
+        "cta": "Conversar pelo WhatsApp",
+        "ctaSecundario": "Ver tratamentos",
+        "ctaSecundarioHref": "#tratamentos",
+        "imagem": "midia/f05.jpg",
+        "imagemAlt": "Jakelline Venturi sentada à mesa do consultório, com estante iluminada ao fundo",
+        "tarja": [
+          "5,0 no Google, 233 avaliações",
+          "Biomédica esteta",
+          "Mentora de outros profissionais de HOF",
+          "Segunda a sexta, das 9h às 20h"
+        ]
+      }
+    },
+    {
+      "id": "fita",
+      "variant": "inclinada",
+      "data": {
+        "itens": [
+          "Toxina botulínica",
+          "Preenchimento labial",
+          "Harmonização facial",
+          "Harmonização masculina",
+          "Avaliação facial"
+        ]
+      }
+    },
+    {
+      "id": "manifesto",
+      "variant": "pagina",
+      "data": {
+        "eyebrow": "Império Facial",
+        "texto": [
+          "O consultório fica num andar alto do Helbor Offices, com janela para a cidade e a cadeira de procedimento virada para a luz. A ideia é simples: realçar o que já é bonito no rosto, sem trocar a pessoa por outra.",
+          "A Jakelline também ensina. Ela é mentora de profissionais de harmonização e mantém um grupo de estudo de casos e intercorrências. Quem senta na cadeira dela é atendido por quem estuda, com outros profissionais, como fazer com segurança."
+        ],
+        "imagem": "midia/f03.jpg",
+        "imagemAlt": "Sala de procedimento com cadeira, poltrona e janela de vidro com vista para Joinville"
+      }
+    },
+    {
+      "id": "tratamentos",
+      "variant": "pilha",
+      "data": {
+        "titulo": "Tratamentos",
+        "lead": "Tudo começa por uma avaliação do rosto. Estes são os procedimentos que mais aparecem na agenda do consultório.",
+        "itens": [
+          {
+            "nome": "Toxina botulínica",
+            "descricao": "Suaviza as linhas da testa, entre as sobrancelhas e ao redor dos olhos, com dose pensada para o rosto continuar se mexendo.",
+            "icone": "seringa",
+            "imagem": "midia/f04.jpg"
+          },
+          {
+            "nome": "Preenchimento labial",
+            "descricao": "Ácido hialurônico para contorno, hidratação ou volume, na medida que você escolheu na avaliação.",
+            "icone": "gota"
+          },
+          {
+            "nome": "Harmonização facial",
+            "descricao": "Um plano para o rosto inteiro, em etapas, buscando equilíbrio entre as regiões em vez de mexer em um ponto só.",
+            "icone": "rosto",
+            "imagem": "midia/f07.jpg"
+          },
+          {
+            "nome": "Harmonização masculina",
+            "descricao": "Abordagem própria para o rosto masculino: resultado natural, sem apagar os traços de quem você é.",
+            "icone": "estrela"
+          }
+        ]
+      }
+    },
+    {
+      "custom": "blocos/avaliacoes.html"
+    },
+    {
+      "id": "conversa",
+      "variant": "celular",
+      "data": {
+        "eyebrow": "Pelo WhatsApp",
+        "titulo": "A dúvida mais comum chega depois da primeira aplicação",
+        "lead": "Toxina tem prazo. Quem já aplicou quer saber quando voltar, e a resposta cabe numa conversa curta.",
+        "cta": "Mandar minha dúvida",
+        "contato": "Dra. Jakelline Venturi",
+        "mensagens": [
+          { "de": "paciente", "texto": "Oi! Fiz botox aí em julho. Já está na hora de refazer?" },
+          { "de": "clinica", "texto": "Oi! O efeito costuma durar de 4 a 6 meses, então você está chegando lá." },
+          { "de": "clinica", "texto": "Quer que eu já veja um horário para reavaliar?" },
+          { "de": "paciente", "texto": "Quero! Pode ser depois das 18h?" },
+          { "de": "clinica", "texto": "Pode sim, atendo até as 20h. Quinta às 18h30 fica bom?" }
+        ]
+      }
+    },
+    {
+      "id": "galeria",
+      "variant": "faixa",
+      "data": {
+        "titulo": "O consultório",
+        "lead": "Recepção, sala de procedimento e um canto do café, no Centro de Joinville.",
+        "itens": [
+          { "imagem": "midia/f01.jpg", "legenda": "Recepção com o nome Império Facial na parede" },
+          { "imagem": "midia/f06.jpg", "legenda": "Canto do café, ao lado do jardim vertical" },
+          { "imagem": "midia/f04.jpg", "legenda": "Cadeira de procedimento e a luz da janela" },
+          { "imagem": "midia/f09.jpg", "legenda": "A Jakelline na recepção do consultório" }
+        ]
+      }
+    },
+    {
+      "id": "numeros",
+      "variant": "vivo",
+      "data": {
+        "titulo": "Na ficha do Google",
+        "itens": [
+          { "valor": "5,0", "rotulo": "nota média" },
+          { "valor": "233", "rotulo": "avaliações publicadas", "contar": 233 },
+          { "valor": "9h–20h", "rotulo": "de segunda a sexta" }
+        ]
+      }
+    },
+    {
+      "id": "depoimentos",
+      "variant": "citacoes",
+      "data": {
+        "titulo": "Quem já passou pela cadeira",
+        "itens": [
+          {
+            "texto": "A Dra. Jake é muito atenciosa, explica tudo com clareza e transmite muita segurança. A clínica é linda, organizada e toda a equipe é muito acolhedora.",
+            "autor": "Thaiana",
+            "contexto": "Google"
+          },
+          {
+            "texto": "A Dra. possui uma abordagem diferenciada voltada também ao público masculino, com resultados efetivos e naturais, sem alterar a originalidade.",
+            "autor": "Romoaldo",
+            "contexto": "Google"
+          },
+          {
+            "texto": "Deixando tudo bem explicado antes de iniciar os procedimentos, passando muita confiança. Amei a experiência e retorno em breve.",
+            "autor": "Bruna",
+            "contexto": "Google"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faq",
+      "variant": "acordeao",
+      "data": {
+        "titulo": "Dúvidas comuns",
+        "itens": [
+          {
+            "p": "Quanto tempo dura a toxina botulínica?",
+            "r": "Em geral, de quatro a seis meses. O efeito aparece nos primeiros dias, e a reaplicação é combinada depois de uma nova avaliação do rosto."
+          },
+          {
+            "p": "Vou ficar com cara de quem fez procedimento?",
+            "r": "O objetivo é o contrário: realçar o que já existe e manter as suas expressões. A dose e os pontos são decididos na avaliação, com você."
+          },
+          {
+            "p": "Homem também faz harmonização?",
+            "r": "Faz, e com um plano próprio. O rosto masculino tem outras proporções, e o resultado busca ficar natural, sem afinar os traços."
+          },
+          {
+            "p": "Dói?",
+            "r": "Há uma picada leve, e o ritmo é ajustado ao seu conforto. Nas avaliações do Google, há pacientes contando que não sentiram dor."
+          },
+          {
+            "p": "Dá para ir depois do trabalho?",
+            "r": "Sim. O consultório atende de segunda a sexta até as 20h, no Helbor Offices, no Centro."
+          }
+        ]
+      }
+    },
+    {
+      "id": "unidades",
+      "variant": "unica",
+      "data": {
+        "titulo": "Onde fica",
+        "imagem": "midia/f01.jpg"
+      }
+    },
+    {
+      "id": "cta-final",
+      "variant": "bloco-cheio",
+      "data": {
+        "h2": "Comece pela avaliação",
+        "lead": "Mande sua dúvida pelo WhatsApp e escolha um horário de segunda a sexta, até as 20h.",
+        "cta": "Conversar pelo WhatsApp"
+      }
+    },
+    {
+      "id": "footer",
+      "variant": "assinatura",
+      "data": {}
+    }
+  ]
+}
